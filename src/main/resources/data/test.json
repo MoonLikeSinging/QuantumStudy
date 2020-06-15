@@ -1,0 +1,10 @@
+[
+  {
+    "waitTimeToReceiveEmail": "5",
+    "emailContent" : {
+      "sender" : "test@test.com",
+      "title": "test",
+      "content" : ["休假申请已被批准", "业务流程：短期休假申请:moon"]
+    }
+  }
+]
